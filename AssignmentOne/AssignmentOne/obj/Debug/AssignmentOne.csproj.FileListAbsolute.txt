@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CopyComplete
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\User\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb

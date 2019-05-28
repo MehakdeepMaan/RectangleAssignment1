@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\obj\Debug\AssignmentOneTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\obj\Debug\AssignmentOneTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\AssignmentOneTest.dll
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\AssignmentOneTest.pdb
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\AssignmentOne.exe
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\AssignmentOne.pdb
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\AssignmentOne.exe.config
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\obj\Debug\AssignmentOneTest.csproj.CopyComplete
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\obj\Debug\AssignmentOneTest.dll
+C:\Users\User\source\repos\AssignmentOne\AssignmentOneTest\obj\Debug\AssignmentOneTest.pdb
